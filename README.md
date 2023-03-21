@@ -28,4 +28,4 @@ Once all the cells have been filled with valid numbers, the game is won and prom
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
